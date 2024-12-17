@@ -3,7 +3,7 @@
 
 <ul>
  <li>With Custom CSS</li>
- <li>Font: Grisaia Custom SP</li>
+ <li>Fonts Used: Grisaia Custom SP & Arial</li>
  <li>Different Images from around the United States</li>
- <li>The form in the about page is currently as no functionality</li>
+ <li>The form in the about page currently has no functionality</li>
 </ul>
